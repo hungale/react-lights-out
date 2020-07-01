@@ -3,6 +3,9 @@
   width: 100px;
   background-color: darkgray;
   cursor: pointer;
+
+  border: 1px solid black;
+  margin: 10px;
 }
 
 .Cell-lit {
